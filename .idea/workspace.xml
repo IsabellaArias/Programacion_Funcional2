@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7c8f7eb-28ba-424f-99c8-74c9c6806a9a" name="Changes" comment="parte2">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programacion_Funcional2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Metodo_Filter/EvenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Metodo_Filter/MainNominatedPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Metodo_Filter/NameValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Metodo_Filter/NominatedPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Metodo_Filter/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Metodo_Map/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Metodo_Map/MainCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Metodo_Map/MainPet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Metodo_Map/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Metodo_Sorted/MainPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Metodo_Sorted/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Metodo_Sorted/Player.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2Xxxb9XyN90YlarZ6qgZDVVO2Em" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gamer\IdeaProjects\Programacion_Funcional2\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7c8f7eb-28ba-424f-99c8-74c9c6806a9a" name="Changes" comment="" />
+      <created>1699584603366</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699584603366</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="parte2" />
+    <option name="LAST_COMMIT_MESSAGE" value="parte2" />
+  </component>
+</project>
